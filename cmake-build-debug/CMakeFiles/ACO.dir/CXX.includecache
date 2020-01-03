@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawid/CLionProjects/ACO/Ant.h
+Matrix.h
+/home/dawid/CLionProjects/ACO/Matrix.h
+vector
+-
+cmath
+-
+random
+-
+
+/home/dawid/CLionProjects/ACO/AntAlgorithm.h
+Matrix.h
+/home/dawid/CLionProjects/ACO/Matrix.h
+Ant.h
+/home/dawid/CLionProjects/ACO/Ant.h
+vector
+-
+
+/home/dawid/CLionProjects/ACO/Matrix.h
+vector
+-
+string
+-
+fstream
+/home/dawid/CLionProjects/ACO/fstream
+iostream
+-
+
+/home/dawid/CLionProjects/ACO/main.cpp
+iostream
+-
+Matrix.h
+/home/dawid/CLionProjects/ACO/Matrix.h
+AntAlgorithm.h
+/home/dawid/CLionProjects/ACO/AntAlgorithm.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ACO.dir/main.cpp.o CMakeFiles/ACO.dir/Matrix.cpp.o CMakeFiles/ACO.dir/AntAlgorithm.cpp.o CMakeFiles/ACO.dir/Ant.cpp.o  -o ACO 
